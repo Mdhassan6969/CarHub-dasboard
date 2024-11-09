@@ -1231,3 +1231,56 @@ h6 {
   font-size: 13px;
   color: #012970;
 }
+
+.buttremove{
+  background-color: #ed3c0d;
+  color: white;
+  font-family: sans-serif;
+  font-weight: 100;
+  font-size: 12px;
+  border-radius: 10px;
+  border-color: transparent;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.my_content{
+  font-family: "Open Sans", sans-serif;
+  font-weight: 100;
+
+}
+#geneatebtn{
+  margin-left: 20px;
+  background-color: #4154f1;
+  font-size: 12px;
+  color: white;
+  border-radius: 10px;
+  border-color: transparent;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  padding: 2px 25px 2px 25px;
+
+
+}
+.my_content{
+  border: 1px solid black;
+  opacity: 80%;
+}
+#tableclone{
+  margin-left: 20px;
+  margin-right: 20px; 
+  border: 1px solid black;
+  border-radius: 25px;
+}
+.my_content_one{
+  padding-left: 10px;
+}
+
+
+td{
+  padding-left: 10px;
+}  
